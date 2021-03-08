@@ -1,0 +1,9 @@
+Package: com.karimo299.autopods
+Name: AutoPods
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Automatically resumes music when an airpod is put back in the case, or when putting the first airpod in your ear.
+Maintainer: Karimo299
+Author: Karimo299
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
